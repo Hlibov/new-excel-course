@@ -1,0 +1,10 @@
+{
+    "parcer": "babel-eslint",
+    "env": {
+        "es6": true,
+        "brawser": true,
+        "node": true
+    },
+    "rules": {},
+    "extends": ["eslint:recommended", "google"]
+}
